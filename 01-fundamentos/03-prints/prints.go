@@ -27,6 +27,8 @@ func main() {
 
 	/*
 		%d => serve para inteiro
+		%#x => serve para imprimir um hexdecimal
+		%b => serve para imprimir o numero em binário
 		%f => serve para float
 		%t => serve para boolean
 		%s => serve para string
